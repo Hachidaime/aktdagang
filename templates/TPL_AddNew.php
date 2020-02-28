@@ -1,0 +1,1 @@
+<button type="button" onclick="AddNew('{$class}');">Tambah</button>
